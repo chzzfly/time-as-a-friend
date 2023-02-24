@@ -1,0 +1,4 @@
+{
+  "buildCommand": "make build",
+  "installCommand": "./install_mdbook.sh"
+}
