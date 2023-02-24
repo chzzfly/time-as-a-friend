@@ -1,4 +1,4 @@
 {
-  "buildCommand": "make build",
-  "installCommand": "sudo ./install_mdbook.sh"
+  "buildCommand": "mdbook build",
+  "installCommand": "./install_mdbook.sh"
 }
