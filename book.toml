@@ -1,0 +1,8 @@
+[book]
+language = "zh"
+multilingual = false
+src = "./"
+title = "time-as-a-friend"
+
+[build]
+build-dir = "book"
